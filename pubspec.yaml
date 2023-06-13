@@ -1,7 +1,7 @@
 name: spider_chart_extended
 description: A highly customizable spider chart with layer of radar for flutter.
 version: 0.0.1
-homepage:
+homepage: https://github.com/uumerazeem/spider_chart_extended.git
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
