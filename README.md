@@ -13,15 +13,6 @@ and the Flutter guide for
 
 This package helps you to draw spider chart with overlay of rader. the coloring scheme is always depends on the data which pass through it.
 
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 ## Example Result
 
 ![Example](assets/example.png)
