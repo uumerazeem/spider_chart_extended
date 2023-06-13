@@ -139,3 +139,4 @@ from the package authors, and more.
 # spider_chart_extended
 # spider_chart_extended
 # spider_chart_extended
+# spider_chart_extended
